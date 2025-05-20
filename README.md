@@ -1,13 +1,13 @@
 # Belly-Button-Challenge
-![HQ graphic](https://github.com/Lanceowesalot/CryptoClustering/blob/main/images/crypto%20squish.jpg)
+![HQ graphic](https://github.com/Lanceowesalot/Belly-Button-Challenge/blob/main/Images/belly%20button.png)
 
 # Belly Button Biodiversity Dashboard
 
 An interactive web dashboard that visualizes microbiome data collected from human belly buttons. Users can select a test subject from a dropdown menu to dynamically update a bar chart, bubble chart, and demographic info panel.
 
-![HQ graphic](https://github.com/Lanceowesalot/CryptoClustering/blob/main/images/crypto%20squish.jpg)
+![HQ graphic](https://github.com/Lanceowesalot/Belly-Button-Challenge/blob/main/Images/bio%20diversity%201.jpg)
 
-![HQ graphic](https://github.com/Lanceowesalot/CryptoClustering/blob/main/images/crypto%20squish.jpg)
+![HQ graphic](https://github.com/Lanceowesalot/Belly-Button-Challenge/blob/main/Images/bio%20diversity%202.jpg)
 
 ---
 
@@ -125,15 +125,13 @@ This project demonstrates how data visualization tools like D3 and Plotly can be
 
 •	D3.js: Documentation – JavaScript library for producing dynamic, interactive data visualizations: retrieved from https://d3js.org/what-is-d3
 
-•	ChatGPT: Used for brainstorming, clarification, and coding assistance
+•	ChatGPT: Used for brainstorming, clarification, conceptual support, and coding assistance
 
 •	Plotly.js: Documentation – Open-source graphing library for JavaScript: retrieved from https://plotly.com/javascript/
 
 •	GitHub Pages: Documentation – Hosting service for static websites directly from GitHub repositories: retrieved from https://docs.github.com/en/pages
 
-•	HTML Cheat Sheet: retrieved from htmlcheatsheet.com
-
-•	 Class activites were used as examples for coding, as well as, ChatGPT was used for conceptual support and README format
+•	 Class activites were used as examples for coding
 
 
 
